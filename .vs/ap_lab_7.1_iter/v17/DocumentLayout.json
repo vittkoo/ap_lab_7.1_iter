@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VS_projects\\ap_lab_7.1_iter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E75CA14-CB81-4959-AB91-A747AF302DE2}|ap_lab_7.1_iter.vcxproj|D:\\VS_projects\\ap_lab_7.1_iter\\lab_7.1_iter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6E75CA14-CB81-4959-AB91-A747AF302DE2}|ap_lab_7.1_iter.vcxproj|solutionrelative:lab_7.1_iter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C98C579B-4C35-418F-B9A4-977BD33E85AB}|..\\UnitTest_7.1_iter\\UnitTest_7.1_iter.vcxproj|D:\\VS_projects\\UnitTest_7.1_iter\\UnitTest_7.1_iter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab_7.1_iter.cpp",
+              "DocumentMoniker": "D:\\VS_projects\\ap_lab_7.1_iter\\lab_7.1_iter.cpp",
+              "RelativeDocumentMoniker": "lab_7.1_iter.cpp",
+              "ToolTip": "D:\\VS_projects\\ap_lab_7.1_iter\\lab_7.1_iter.cpp",
+              "RelativeToolTip": "lab_7.1_iter.cpp",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-28T19:50:55.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest_7.1_iter.cpp",
+              "DocumentMoniker": "D:\\VS_projects\\UnitTest_7.1_iter\\UnitTest_7.1_iter.cpp",
+              "RelativeDocumentMoniker": "..\\UnitTest_7.1_iter\\UnitTest_7.1_iter.cpp",
+              "ToolTip": "D:\\VS_projects\\UnitTest_7.1_iter\\UnitTest_7.1_iter.cpp",
+              "RelativeToolTip": "..\\UnitTest_7.1_iter\\UnitTest_7.1_iter.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-29T16:45:14.027Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
